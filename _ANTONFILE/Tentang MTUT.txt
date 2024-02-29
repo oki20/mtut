@@ -1,0 +1,7 @@
+pdf langsung tampil
+saat klik open pdf, system akan hitung 30 menit, setelah 30 menit maka akan balik ke halaman utama dan di table ada flag gabisa buka pdf lagi.
+Jadi di tabel user ada pencatatan halaman apa yang sudah dan tidakboleh dibuka lagi
+
+user | kode dukumen 
+saat buka halama maka cek dulu ke tabel tsb apakah kode dokumen based user bersangkutan sudah ada di tabel itu. kalau belum ada buka, kalau sudah ada mesage error.
+
